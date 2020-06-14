@@ -1,0 +1,16 @@
+{
+    "firstName": "nagaaaa",
+    "lastName": "rajan",
+    "workEmailAddress": "nagarajansai@gmail.com",
+    "phone": "123456789",
+    "solutionSubMenu": [
+        "College and Career Readiness",
+        "Match and Fit",
+        "Student Success and Advising"
+    ],
+    "solutionSubMenuUrl": [
+        "/solutions/college-and-career-readiness",
+        "/solutions/match-and-fit",
+        "/solutions/student-success-and-advising"
+    ]
+}

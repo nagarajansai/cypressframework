@@ -1,0 +1,10 @@
+{
+  "baseUrl": "https://hobsons.com/",
+  "modifyObstructiveCode": true,
+  "reporter": "mochawesome",
+  "defaultCommandTimeout": 5000,
+  "env": {
+    "newUrl": "https://rahulshettyacademy.com"
+  },
+  "projectId": "763muo"
+}

@@ -1,0 +1,45 @@
+{
+    "name": "DD",
+    "gender": "Male",
+    "productName": [
+        "Blackberry",
+        "Nokia Edge"
+    ],
+    "eventPageTitle": "Events | Resources for Education Professionals | Hobsons",
+    "homePageTitle": "Education Advances | Hobsons",
+    "prodBlogLink": [
+        "Naviance",
+        "Intersect",
+        "Starfish"
+    ],
+    "productBlogUrl": [
+        "naviance-coronavirus-update",
+        "intersect-coronavirus-update",
+        "starfish-coronavirus-update"
+    ],
+    "hamBurgerMenu": [
+        "Home",
+        "Solutions",
+        "Services",
+        "Resources",
+        "Careers",
+        "About",
+        "Blog",
+        "Get Started"
+    ],
+    "learnAbout": [
+        "Learn about Naviance",
+        "Learn about Intersect",
+        "Learn about Starfish"
+    ],
+    "eventHeader": [
+        "Everything",
+        "Webinars",
+        "Events",
+        "Case Studies",
+        "White Papers1",
+        "Blog",
+        "Press Releases",
+        "Press Coverage1"
+    ]
+}
